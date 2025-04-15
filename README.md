@@ -40,7 +40,7 @@ Review the attached “TechFite Case Study” for information on the company bei
 
 <p>Another critical component of the SATE program is establishing clear penalties for unauthorized activities. Employees like Sarah Miller and her team, who engaged in unauthorized network scanning, would face clear consequences for their actions. This component would help ensure that employees understand the importance of obtaining approval for all network security activities and that there are consequences for violating ethical and legal standards.</p>
 
-<h2>SATE Program Communicatio</h2>
+<h2>SATE Program Communication</h2>
 
 <p>The SATE program will be communicated to TechFite employees through official announcements from senior management, followed by detailed emails outlining the program’s components and expectations. TechFite will also hold mandatory training sessions to educate employees about conflicts of interest and authorized network security activities. This training will be delivered through in-person workshops and online modules to ensure all employees receive the necessary information.</p>
 
